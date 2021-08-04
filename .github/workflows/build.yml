@@ -3,7 +3,7 @@ name: Build JavaScript assets
 on:
     push:
         branches:
-            - master
+            - acpl-fork
 
 jobs:
     build:
